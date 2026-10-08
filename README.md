@@ -34,6 +34,6 @@ Welcome to my personal collection of **Mindustry** schematics! Here you can find
 ### Templates / Шаблоны
 | Category | Schematic Name | sha512sum | File |
 | :--- | :--- | :--- | :--- |
-| 🛡️ Defense / Защита | Copper Mega-Turret v1.0.0 | `c0ab7dc5eed60826616ae44f97308e3464a5e83ccb72a626e12ec05d043a799a15587cf5c4fff5c884135b743bf838e83cf3b6345d264d3a39a00cc1eb1713a4` | [Open](./mindustry-templates/copper_turret-v1.0.0.txt) |
+| 🛡️ Defense / Защита | Copper Mega-Turret v1.0.0 | `c0ab7dc5eed60826616ae44f97308e3464a5e83ccb72a626e12ec05d043a799a15587cf5c4fff5c884135b743bf838e83cf3b6345d264d3a39a00cc1eb1713a4` | [Open](./mindustry-templates/defense/copper_turret-v1.0.0.txt) |
 | ⚡ Power | *Name* | `i dont added hash :(` | [Link](./path) |
 | 📦 Factory | *Name* | `i dont added hash :(` | [Link](./path) |
